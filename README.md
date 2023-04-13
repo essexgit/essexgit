@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @essexgit
 - 👀 I’m interested in Frontend and Python
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on Strategy 
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React 
 - 📫 How to reach me https://www.linkedin.com/in/ralph-cox-strategy66/
 <!---
 essexgit/essexgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
